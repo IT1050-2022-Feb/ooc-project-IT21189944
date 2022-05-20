@@ -24,4 +24,4 @@ void User::validateUser() {
 }
 User::~User() {
 	
-}
+} 

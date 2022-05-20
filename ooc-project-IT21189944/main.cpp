@@ -11,7 +11,7 @@
 #include "Reservation.h"
 using namespace std;
 
-int main()
+int main() 
 {
   // data insert to registered user
   Registered_user *regUser = new Registered_user("chillbroh", "1234", "U0001", "Ishara", "Galle", "1998/06/14", "0766859740", "male", "ishara410@gmail.com", "mr");

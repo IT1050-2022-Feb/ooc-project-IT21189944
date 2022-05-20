@@ -1,7 +1,7 @@
 #include "Administrator.h"
 #include <iostream>
 #include <cstring>
-using namespace std;
+using namespace std; 
 
 Administrator:: Administrator(){
   strcpy(Admin_ID,"");

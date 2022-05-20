@@ -1,4 +1,4 @@
-//Class User
+ //Class User
 #pragma once
 class User
 {
@@ -13,4 +13,4 @@ public:
 	void login();
 	void validateUser();
 	~User();
-};
+}; 

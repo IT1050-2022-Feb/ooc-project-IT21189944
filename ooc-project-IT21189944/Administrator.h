@@ -15,5 +15,5 @@ class Administrator : public User{
       void manageUser();
       void manageSafari();
       void manageFeed();
-      ~Administrator();
+      ~Administrator(); 
 };

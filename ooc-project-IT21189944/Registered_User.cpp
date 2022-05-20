@@ -19,7 +19,7 @@ Registered_user::Registered_user(){
 //constructer with parameters
 Registered_user::Registered_user(char u_username[], char u_pass[], char u_id[], char u_name[], char u_address[], char u_dob[], char u_phone[], char u_gender[], char u_email[], char u_salutation[])
 	:User(u_username, u_pass) {
-	strcpy(user_ID, u_id);
+	strcpy(user_ID, u_id); 
 	strcpy(name, u_name);
 	strcpy(address, u_address);
 	strcpy(dob, u_dob);

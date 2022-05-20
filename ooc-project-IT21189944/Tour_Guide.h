@@ -10,5 +10,5 @@ class Tour_Guide : public User{
         void display();
         void checkInq();
         void replyInq();
-        ~Tour_Guide();
+        ~Tour_Guide(); 
 };

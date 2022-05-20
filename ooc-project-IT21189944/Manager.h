@@ -10,5 +10,5 @@ class Manager : public User{
       void display();
       void ManageDonation();
       void generateReport();
-      ~Manager();
+      ~Manager();  
 };

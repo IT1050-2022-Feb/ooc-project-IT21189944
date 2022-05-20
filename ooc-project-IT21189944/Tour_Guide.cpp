@@ -22,4 +22,4 @@ void Tour_Guide::replyInq(){
 }
 Tour_Guide::~Tour_Guide(){
   
-}
+} 

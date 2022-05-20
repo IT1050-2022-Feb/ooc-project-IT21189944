@@ -22,7 +22,7 @@ private:
   Reservation *reservation[SIZE];
   Donation *donate[SIZE];
 public:
-  Registered_user();
+  Registered_user(); 
 	Registered_user(char u_username[], char u_pass[], char u_id[], char u_name[], char u_address[], char u_dob[], char u_phone[], char u_gender[], char u_email[], char u_salutation[]);
   void display();
 	void checkpkg();
